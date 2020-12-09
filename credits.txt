@@ -1,0 +1,11 @@
+<span>
+Photo by <a href="https://unsplash.com/@ben_neale?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Neale</a> on <a href="https://unsplash.com/s/photos/arcade?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+</span>
+
+Developed by @eniolajayi 
+
+The main base and ground work for the game
+was taught  by Thomas Weibenfalk
+
+you can check out his youtube channel
+here
