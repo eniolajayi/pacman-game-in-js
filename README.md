@@ -1,3 +1,9 @@
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9eb70f5e-b058-4e81-b52e-8bc3ad07fd15/deploy-status)](https://app.netlify.com/sites/pacmanjs-eniolajayi/deploys)
+
+View project here
+https://pacmanjs-eniolajayi.netlify.app/
+
 # v2
 
 1. Add timer
