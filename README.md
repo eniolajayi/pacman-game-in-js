@@ -26,3 +26,9 @@ https://pacmanjs-eniolajayi.netlify.app/
 
 1. Write adequate test for functionality
 2. design retro arcade container around it with lights and effects
+
+
+The base for this project was derived from a tutorial by **Thomas Weibenfalk**
+his youtube channel: https://www.youtube.com/user/Weibenfalk
+link to the tutorial: https://www.youtube.com/watch?v=YBtzzVwrTeE
+Planning on improving on it 
